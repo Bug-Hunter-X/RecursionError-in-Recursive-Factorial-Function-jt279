@@ -1,0 +1,1 @@
+This repository contains a Python program that demonstrates a common error related to recursion depth limits. The file `factorial_bug.py` shows a recursive factorial function that causes a `RecursionError` for large inputs. The `factorial_solution.py` file provides a solution using iteration to avoid the recursion depth issue.
